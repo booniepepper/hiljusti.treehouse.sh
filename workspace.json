@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "ID": "@root",
+    "Name": "@root",
+    "Linked": {
+      "Children": [
+        "leqtwftrhwff3q5jjeu"
+      ],
+      "Components": []
+    },
+    "Attrs": {}
+  },
+  {
+    "ID": "leqtwftrhwff3q5jjeu",
+    "Name": "Workspace",
+    "Linked": {
+      "Children": [
+        "leqtwftsyv6x31jvs9g",
+        "leqtwftsx79udongunp"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "@root"
+  },
+  {
+    "ID": "leqtwftsyv6x31jvs9g",
+    "Name": "Calendar",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leqtwftrhwff3q5jjeu"
+  },
+  {
+    "ID": "leqtwftsx79udongunp",
+    "Name": "Home",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leqtwftrhwff3q5jjeu"
+  }
+]
